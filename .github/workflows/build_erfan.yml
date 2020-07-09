@@ -5,12 +5,12 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://oxygenos.oneplus.net/OnePlus6TOxygen_34_OTA_045_all_2004142152_09a6b6789a7843e6.zip
-  ROM_NAME: OxygenOS
+  ROM_URL: https://liquidtelecom.dl.sourceforge.net/project/bootleggersrom/builds/cepheus/BootleggersROM-Queue4cepheus.5.1-Stable-Shishufied-20200608-112509.zip
+  ROM_NAME: Bootleggers
   BUILD_AB: true
   BUILD_AONLY: false
-  ROM_AONLY: oneplus6.7z
-  ROM_AB: oneplus6AB.7z
+  ROM_AONLY: BootleggersROM-Queue4-5.1-Stable-Shishufied.7z
+  ROM_AB: BootleggersROM-Queue4-5.1-Stable-Shishufied-AB.7z
 
 jobs:
   build:
