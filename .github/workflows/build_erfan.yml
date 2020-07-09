@@ -6,7 +6,7 @@ on:
     
 env:
   ROM_URL: https://liquidtelecom.dl.sourceforge.net/project/bootleggersrom/builds/cepheus/BootleggersROM-Queue4cepheus.5.1-Stable-Shishufied-20200608-112509.zip
-  ROM_NAME: Bootleggers
+  ROM_NAME: Generic
   BUILD_AB: true
   BUILD_AONLY: false
   ROM_AONLY: BootleggersROM-Queue4-5.1-Stable-Shishufied.7z
