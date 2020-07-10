@@ -5,12 +5,12 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://firmware.meizu.com/Firmware/Flyme/meizu17_Pro/8.1.2.2/cn/20200704153422/5fc9f15d/update.zip
-  ROM_NAME: Flyme
+  ROM_URL: https://oxygenos.oneplus.net/OnePlus7TOxygen_14.O.13_OTA_013_all_2005192145_5ecebc1d9bde4987.zip
+  ROM_NAME: OxygenOS
   BUILD_AB: true
   BUILD_AONLY: false
-  ROM_AONLY: Flyme_8.1.2.2A_A.7z
-  ROM_AB: Flyme_8.1.2.2A_AB.7z
+  ROM_AONLY: OxygenOS_Aonly.7z
+  ROM_AB: OxygenOS_AB.7z
 
 jobs:
   build:
