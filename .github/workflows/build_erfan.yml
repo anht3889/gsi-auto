@@ -5,12 +5,12 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://liquidtelecom.dl.sourceforge.net/project/bootleggersrom/builds/cepheus/BootleggersROM-Queue4cepheus.5.1-Stable-Shishufied-20200608-112509.zip
-  ROM_NAME: Generic
+  ROM_URL: https://firmware.meizu.com/Firmware/Flyme/meizu17_Pro/8.1.2.2/cn/20200704153422/5fc9f15d/update.zip
+  ROM_NAME: Flyme
   BUILD_AB: true
   BUILD_AONLY: false
-  ROM_AONLY: BootleggersROM-Queue4-5.1-Stable-Shishufied.7z
-  ROM_AB: BootleggersROM-Queue4-5.1-Stable-Shishufied-AB.7z
+  ROM_AONLY: Flyme_8.1.2.2A_A.7z
+  ROM_AB: Flyme_8.1.2.2A_AB.7z
 
 jobs:
   build:
