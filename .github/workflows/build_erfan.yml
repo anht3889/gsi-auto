@@ -5,12 +5,12 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://oxygenos.oneplus.net/OnePlus7TOxygen_14.O.13_OTA_013_all_2005192145_5ecebc1d9bde4987.zip
-  ROM_NAME: OxygenOS
+  ROM_URL: https://get.derpfest.org/cepheus/builds/DerpFest-10-Official-cepheus-20200711.zip
+  ROM_NAME: Generic
   BUILD_AB: true
   BUILD_AONLY: false
-  ROM_AONLY: OxygenOS_Aonly.7z
-  ROM_AB: OxygenOS_AB.7z
+  ROM_AONLY: DerpFest_Aonly.7z
+  ROM_AB: DerpFest_AB.7z
 
 jobs:
   build:
