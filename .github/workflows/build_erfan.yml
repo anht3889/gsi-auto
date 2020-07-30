@@ -6,7 +6,7 @@ on:
     
 env:
   ROM_URL: https://nchc.dl.sourceforge.net/project/evolution-x/raphael/EvolutionX_4.5_raphael-10.0-20200720-0634-OFFICIAL.zip
-  ROM_NAME: Generic
+  ROM_NAME: EvolutionX
   BUILD_AB: true
   BUILD_AONLY: false
   ROM_AONLY: EvoX4.5_Aonly.7z
