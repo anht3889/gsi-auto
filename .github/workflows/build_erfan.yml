@@ -10,7 +10,7 @@ env:
   BUILD_AB: true
   BUILD_AONLY: false
   ROM_AONLY: EvoX4.5_Aonly.7z
-  ROM_AB: EvoX4.5_AB.7z
+  ROM_AB: EvoX4.5_new_AB.7z
 
 jobs:
   build:
